@@ -1,0 +1,15 @@
+{
+  "name" : "populatelistfromvariable",
+  "version" : "2.0.1",
+  "description" : "Create List with Value / Label from variable\n",
+  "main" : "populatelistfromvariable.js",
+  "dependencies": {
+   "joi": "^9.2.0"
+ },
+  "oracleMobile" : {
+    "dependencies" : {
+      "apis" : { },
+      "connectors" : { }
+    }
+  }
+}
